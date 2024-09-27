@@ -1,7 +1,7 @@
 {
   "name": "vite-project",
   "private": true,
-  "homepage": "https://github.com/Soumya234567890/reactjs-spotify.git",
+  "homepage": "https://github.com/Soumya234567890/reactjs-spotify",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
